@@ -1,6 +1,9 @@
 [book]
 authors = ["watcher041"]
-language = "en"
+language = "ja"
 multilingual = false
 src = "src"
 title = "y"
+
+[preprocessor.katex]
+after = ["links"]
