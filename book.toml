@@ -3,7 +3,7 @@ authors = ["watcher041"]
 language = "ja"
 multilingual = false
 src = "src"
-title = "y"
+title = "物理学演習"
 
 [preprocessor.katex]
 after = ["links"]
